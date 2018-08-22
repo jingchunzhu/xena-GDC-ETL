@@ -1,0 +1,20 @@
+{
+u'sample_ids': [u'283b4aea-03b4-44f5-9730-5d5c7820eb12', u'7ed77ea8-0e67-455d-a55a-f6a04b72e1be', u'7430a6c2-758a-4a56-8168-865b3463c2db'], 
+u'disease_type': u'Uterine Corpus Endometrial Carcinoma', 
+u'updated_datetime': u'2018-05-22T05:20:16.511251-05:00', 
+u'created_datetime': None, 
+u'slide_ids': [u'5138d46f-c062-4c3a-a189-7b405daa0956', u'56cd7d47-926c-4454-9041-277e01de6aff', u'57f8c7b7-1aa4-4149-9ef4-4afc7a2b1f74'], 
+u'submitter_portion_ids': [u'TCGA-D1-A103-01A-11', u'TCGA-D1-A103-01A-21-A163-20', u'TCGA-D1-A103-10A-01'], 
+u'submitter_analyte_ids': [u'TCGA-D1-A103-01A-11W', u'TCGA-D1-A103-01A-11D', u'TCGA-D1-A103-10A-01D', u'TCGA-D1-A103-01A-11R', u'TCGA-D1-A103-10A-01W'], 
+u'analyte_ids': [u'7e79a92e-298f-46b8-a122-1edbab8ce157', u'84e6179f-cc02-43ab-9d76-6320fa9ea39b', u'0513d2a3-8581-433b-adf5-1cb3eff7de21', u'720759a9-4304-47dc-b34b-7e7178aca1e4', u'fd34561e-a42c-417e-8038-8edf0f5f7840'], 
+u'submitter_id': u'TCGA-D1-A103', 
+u'state': u'live', 
+u'case_id': u'7427f9e8-1140-45fd-9613-78b72b13a7ba', 
+u'primary_site': u'Uterus', 
+u'submitter_aliquot_ids': [u'TCGA-D1-A103-01A-11D-A10N-05', u'TCGA-D1-A103-01A-11R-A10J-07', u'TCGA-D1-A103-10A-01D-A10M-09', u'TCGA-D1-A103-10A-01D-A10L-01', u'TCGA-D1-A103-10A-01D-A10K-02', u'TCGA-D1-A103-10A-01W-A124-09', u'TCGA-D1-A103-01A-11D-A10K-02', u'TCGA-D1-A103-01A-01D-YYYY-23', u'TCGA-D1-A103-01A-11R-A10I-13', u'TCGA-D1-A103-01A-11D-A10L-01', u'TCGA-D1-A103-01A-11W-A124-09', u'TCGA-D1-A103-01A-11D-A10M-09'], 
+u'submitter_sample_ids': [u'TCGA-D1-A103-10A', u'TCGA-D1-A103-01Z', u'TCGA-D1-A103-01A'], 
+u'submitter_slide_ids': [u'TCGA-D1-A103-01A-01-BS1', u'TCGA-D1-A103-01A-01-MS1', u'TCGA-D1-A103-01Z-00-DX1'], 
+u'aliquot_ids': [u'ba50902a-fcf9-4023-bdbc-3e7d61c7011b', u'a386a59a-c68e-4c21-94e3-a8db9a4ac254', u'889a6b92-4474-40f5-b8c0-01763069dd2a', u'56c50089-0236-4c7a-a8b7-12e0103e876e', u'59fa8d90-8178-490b-915a-700ee5c1c27c', u'962b6b29-1695-4327-9baf-ca184f2a436e', u'252aedde-5905-47be-b01d-72df92c183f1', u'1a428995-fcd2-44a2-9b33-de350480fe8f', u'2c6b6216-9910-4b18-9327-f11522933e1f', u'd421fa4c-647d-40a5-80ab-7e376574efc3', u'0bd82953-f6fe-435a-9438-1a4b14b9a5ad', u'12e4dfcd-bca4-4d2f-994c-c25cde523184'], 
+u'id': u'7427f9e8-1140-45fd-9613-78b72b13a7ba', 
+u'portion_ids': [u'af6dd9d7-ef2b-453c-9bd2-58ae872b7249', u'88f37750-cedd-4d00-b466-f66cf469808d', u'93fd8223-7024-4a46-88f8-922b00c25efa']
+}
